@@ -20,7 +20,7 @@ public class practice {
                 qu.add(nums[i]);
             }
         }
-        return qu.peek();
+        return qu.peek();//new
     }
 
 }
